@@ -2,8 +2,8 @@
 # to names as it appears in the UI drop down menus
 
 [machine_profiles]
-manufacturer = "*"
-cura_default = "Cura Default"
+manufacturer = "ISB3DPRINTERS"
+cura_default = "default"
 
 [material_brands]
 generic = "Unbranded"
