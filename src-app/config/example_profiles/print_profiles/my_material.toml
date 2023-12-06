@@ -1,10 +1,10 @@
 [metadata]
 
 date = "1/1/2021"
-material_notes = "Notes about this material"
+material_notes = "It's just PLA mates"
 
 [settings]
 
-material_print_temperature = 200
-material_bed_temperature = 100
-material_bed_temperature_layer_0 = 100
+material_print_temperature = 218
+material_bed_temperature = 50
+material_bed_temperature_layer_0 = 60

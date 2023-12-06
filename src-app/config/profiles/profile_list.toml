@@ -3,10 +3,10 @@
 
 [machine_profiles]
 manufacturer = "ISB3DPRINTERS"
-cura_default = "default"
+default_printer = "Cura Default"
 
 [material_brands]
 generic = "Unbranded"
 
 [print_profiles]
-cura_default = "Cura Default"
+default_filament = "Cura Default"
